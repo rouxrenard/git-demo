@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bla bla bla
 this is a song
 =======
@@ -9,3 +10,5 @@ i want you back
 ijkdljflkj
 djflkrgjlkfgld
 l
+=======
+>>>>>>> parent of c3064e9 (add first 2 lines in the song)
